@@ -10,7 +10,7 @@ Installation
 
     library(devtools)
     install_github('timcdlucas/encounteR')
-    library(riskr)
+    library(encounteR)
 
 
 Road map
