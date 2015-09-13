@@ -118,7 +118,7 @@ gremDensity <- function(z, alpha, theta, r, animalSpeed, t){
 
 gremAbundance <- function(z, alpha, theta, r, animalSpeed, t, area){
         if(area <= 0 | !is.numeric(area)) stop('Area must be a positive number')
-        D <- calcDensity(z, alpha, theta, r, animalSpeed, t)
+        D <- gremDensity(z, alpha, theta, r, animalSpeed, t)
         A <- D*area
         return(A)
 }
