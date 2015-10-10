@@ -13,6 +13,16 @@ Installation
     library(encounteR)
 
 
+
+
+
+Web App
+-------
+
+If you do not use R, a very basic [web app](https://timcdlucas.shinyapps.io/gremApp) is available.
+It implements the gREM model (of which the REM model and gas models are special cases) but nothing else.
+
+
 Road map
 ---------
 
