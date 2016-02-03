@@ -1,8 +1,15 @@
 encounteR
 ==========
 
-A package for estimating population densities using Random Encounter Models.
+A package for estimating population densities and other ecological measurements using Random Encounter Models.
 
+Random encounter models provide an alternative method for estimating animal densities, contact rates and various other measures important in ecology.
+They can replace distance sampling methods and mark-recapture methods and have potentially less restrictive assumptions.
+Notably, one does not need to measure the distance between your sensor (camera trap, acoustic sensor etc.) and the animal, nor do you need individual recognition of animals.
+
+This package is an attempt to pull together different models and functions useful for REM style analyses into one package.
+
+Please feel free to get in touch, mention models that should be here that aren't or contribute code.
 
 
 Installation
