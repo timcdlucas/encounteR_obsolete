@@ -59,9 +59,9 @@ calcProfileWidth <- function(alpha, theta, r){
 #'
 #' Rowcliffe, J., Field, J., Turvey, S. & Carbone, C. (2008) Estimating animal 
 #'    density using camera traps without the need for individual recognition. 
-#'    Journal of Applied Ecology, 45, 1228–1236.
+#'    Journal of Applied Ecology, 45, 1228-1236.
 #'
-#' Yapp, W. (1956) The theory of line transects. Bird Study, 3, 93–104.
+#' Yapp, W. (1956) The theory of line transects. Bird Study, 3, 93-104.
 #'@inheritParams gremAbundance
 #'@seealso  \code{\link{gremAbundance}}
 #'@name gremDensity
@@ -101,9 +101,9 @@ gremDensity <- function(z, alpha, theta, r, animalSpeed, t){
 #'
 #' Rowcliffe, J., Field, J., Turvey, S. & Carbone, C. (2008) Estimating animal 
 #'    density using camera traps without the need for individual recognition. 
-#'    Journal of Applied Ecology, 45, 1228–1236.
+#'    Journal of Applied Ecology, 45, 1228-1236.
 #'
-#' Yapp, W. (1956) The theory of line transects. Bird Study, 3, 93–104.
+#' Yapp, W. (1956) The theory of line transects. Bird Study, 3, 93-104.
 #'@seealso  \code{\link{gremDensity}}
 #'@param z Number of detections.
 #'@param alpha Call width in radians.

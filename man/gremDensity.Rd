@@ -36,9 +36,9 @@ Lucas, T. C. D., Moorcroft, E. A., Freeman, R., Rowcliffe, J. M.,
 
 Rowcliffe, J., Field, J., Turvey, S. & Carbone, C. (2008) Estimating animal 
    density using camera traps without the need for individual recognition. 
-   Journal of Applied Ecology, 45, 1228–1236.
+   Journal of Applied Ecology, 45, 1228-1236.
 
-Yapp, W. (1956) The theory of line transects. Bird Study, 3, 93–104.
+Yapp, W. (1956) The theory of line transects. Bird Study, 3, 93-104.
 }
 \seealso{
 \code{\link{gremAbundance}}
