@@ -10,7 +10,7 @@
 #'@name encounteR
 #'@author Tim CD Lucas
 #'@docType package
-#'@import assertthat, ggplot2
+
 
 NULL  
 
