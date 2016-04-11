@@ -48,8 +48,8 @@ calcProfileWidth <- function(alpha, theta, r){
 #' Calculate population density from count data using the gREM. 
 #'
 #' Note that the REM of Rowcliffe et al. 2008 can be used by setting alpha to 
-#'    zero and the Gas Model of Yapp 1956 can be used setting alpha and theta
-#'    to zero.
+#'    2*pi and the Gas Model of Yapp 1956 can be used setting alpha and theta
+#'    to 2*pi.
 #'
 #'
 #'@references Lucas, T. C. D., Moorcroft, E. A., Freeman, R., Rowcliffe, J. M.,
@@ -110,7 +110,7 @@ gremDensity <- function(z, alpha, theta, r, animalSpeed, t){
 #'@param theta Detector width in radians.
 #'@param r Sensor detection radius in metres.
 #'@param animalSpeed Average animal speed in metres per second.
-#'@param time Total survey time. This is the amount of time the sensors are
+#'@param t Total survey time. This is the amount of time the sensors are
 #'    active multiplied by the number of sensors used.
 #'@param area The size of the study area in metres squared.
 #'@name gremAbundance
