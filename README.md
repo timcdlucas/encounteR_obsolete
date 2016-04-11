@@ -2,6 +2,7 @@ encounteR
 ==========
 
 [![Build Status](https://travis-ci.org/timcdlucas/encounteR.svg)](https://travis-ci.org/timcdlucas/encounteR)
+[![codecov.io](https://codecov.io/github/timcdlucas/encounteR/coverage.svg?branch=master)](https://codecov.io/github/timcdlucas/encounteR?branch=master)
 
 A package for estimating population densities and other ecological measurements using Random Encounter Models.
 
