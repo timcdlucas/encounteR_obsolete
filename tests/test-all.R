@@ -1,2 +1,2 @@
 library(testthat)
-test_check("zoon")
+test_check("encounteR")
