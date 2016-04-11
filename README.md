@@ -1,6 +1,8 @@
 encounteR
 ==========
 
+[![Build Status](https://travis-ci.org/timcdlucas/encounteR.svg)](https://travis-ci.org/timcdlucas/encounteR)
+
 A package for estimating population densities and other ecological measurements using Random Encounter Models.
 
 Random encounter models provide an alternative method for estimating animal densities, contact rates and various other measures important in ecology.
